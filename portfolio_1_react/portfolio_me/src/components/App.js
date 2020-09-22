@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
+import { Portfolio } from './portfolio/Portfolio';
 
 export class App extends Component {
   constructor () {
@@ -10,12 +11,15 @@ export class App extends Component {
     };
   }
   
+  handleSectionClick = (sectionName) => {
+    alert(sectionName);
+  }
+
   render () {
     return (
       <div className = "App">
-        <p>
-          Hello there!!
-        </p>
+        <Portfolio 
+            handleSectionClick = {this.handleSectionClick}/>
       </div>
     ); 
   }
