@@ -3,41 +3,41 @@ export const projects = {
     quote: "Ahh, Learning alone is boring, implementation is the real fun",
     projectList: [
         {
-            name: "Project 1",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            link: "http://madhavbahl.tech/react-pokedex/"
+            name: "Portfolio",
+            description: "Made mine portfolio using react. The where you are seeing this is the one out of many",
+            link: "Coming soon"
         }, {
-            name: "Project 2",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            link: "http://madhavbahl.tech/react-pokedex/"
+            name: "IPL Predictions",
+            description: "Used Machine Learning Algorithms to predict outcome of matches and runs with accuracy of 73%, and also made a model where it will tell the suitable palying 11 against a particular team",
+            link: "Coming soon"
         }, {
-            name: "Project 3",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            link: "http://madhavbahl.tech/react-pokedex/"
+            name: "Fish Farming company website",
+            description: "A website for mainly fish farmig bussiness with lot of features like payment and login facility",
+            link: "Coming soon"
         }, {
-            name: "Project 4",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            link: "http://madhavbahl.tech/react-pokedex/"
+            name: "Maze Solver",
+            description: "Made a maze solver using python give your maze image it will give the solution",
+            link: "Coming soon"
         }, {
-            name: "Project 5",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            link: "http://madhavbahl.tech/react-pokedex/"
+            name: "Spotify playlist downloader",
+            description: "Made a spotify playlist downloader using python and beautifulsoup. You have to give link to your playlist and it will download all files in your desired folder",
+            link: "Coming soon"
         }, {
-            name: "Project 6",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            link: "http://madhavbahl.tech/react-pokedex/"
+            name: "Coming Soon",
+            description: "Coming Soon",
+            link: "Coming soon"
         }, {
-            name: "Project 7",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            link: "http://madhavbahl.tech/react-pokedex/"
-        }, {
-            name: "Project 8",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            link: "http://madhavbahl.tech/react-pokedex/"
-        }, {
-            name: "Project 9",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            link: "http://madhavbahl.tech/react-pokedex/"
-        }
+            name: "Coming Soon",
+            description: "Coming Soon",
+            link: "Coming soon"
+        },{
+            name: "Coming Soon",
+            description: "Coming Soon",
+            link: "Coming soon"
+        },{
+            name: "Coming Soon",
+            description: "Coming Soon",
+            link: "Coming soon"
+        },
     ]
 }
